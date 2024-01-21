@@ -4,15 +4,13 @@
 
 ![img](https://bestfriends.org/sites/default/files/styles/hero_mobile/public/hero-dash/Asana3808_Dashboard_Standard.jpg?h=ebad9ecf&itok=cWevo33k)
 
-**I`m javascript developer**
+**I`m javascript developer.**
 *There is example of my JS code:*
 
 ```javascript 
-let isAlive = true;
+const isAlive = true;
 
-do {
-  code();
-}
+do { code(); }
 while ( isAlive );
 
 function code() {
